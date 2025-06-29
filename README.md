@@ -17,7 +17,7 @@ Contact form with required input fields
 
 Footer with contact information
 
-🧠 Learning Goals:
+🧠 Learning Goals
 Use of semantic tags like <header>, <section>, <footer>
 
 Embedding multimedia (images and videos)
@@ -30,4 +30,4 @@ Understanding limitations of external embeds like YouTube
 index.html – Contains the full website structure.
 
 🔗 Live Preview:
-(Optional: Add your GitHub Pages or Replit link here if hosted)
+
