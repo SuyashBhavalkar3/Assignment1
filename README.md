@@ -31,4 +31,4 @@ Understanding limitations of external embeds like YouTube
 index.html – Contains the full website structure.
 
 🔗 Live Preview:
-
+https://ssb-assignment-1.netlify.app/
