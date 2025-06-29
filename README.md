@@ -17,8 +17,9 @@ Contact form with required input fields
 
 Footer with contact information
 
-🧠 Learning Goals
-Use of semantic tags like <header>, <section>, <footer>
+🧠 Learning Goals :
+
+Use of semantic tags like header, section, footer
 
 Embedding multimedia (images and videos)
 
